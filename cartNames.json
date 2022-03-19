@@ -1,0 +1,17 @@
+{
+	"etsy": "https://www.etsy.com/ca/cart", //note that all of these might have extra stuff at end or ref urls
+	"aliexpress": "https://shoppingcart.aliexpress.com/shopcart/shopcartDetail.htm",
+	"amazon": "https://www.amazon.com/gp/cart/view.html", //need to allow for different domains, .ca.com.etc 
+	//so far all of these contain "cart" tho
+	"ebay": "https://cart.ebay.com/"
+}
+
+/*
+other things I can add here:
+alibaba, aliexpress
+wish
+taoba
+shopify cart (might need more than url tho)
+
+
+*/
